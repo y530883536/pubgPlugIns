@@ -1,0 +1,4 @@
+<resources>
+    <!-- 这个地方是可以改app的名字的 -->
+    <string name="app_name">firstEx</string>
+</resources>
